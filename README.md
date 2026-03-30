@@ -67,7 +67,7 @@ I am a **Data Engineer** with a background from **Centrale Casablanca**. I speci
   <a href="https://linkedin.com/in/ismailderhem">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://ismailderhem.github.io">
+  <a href="https://ismail-de.github.io">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
