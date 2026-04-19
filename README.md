@@ -1,4 +1,4 @@
-# Hi there, I'm Ismail Derhem 👋 
+# Hi there, I'm Ismail De👋 
 ### Data Engineer | Data Infrastructure & RAG Systems
 
 ![Data Engineering](https://img.shields.io/badge/Focus-Data%20Engineering-blue?style=for-the-badge)
